@@ -6,7 +6,6 @@ h1{
   text-align: center;
 }
 
-p {
   background-color: #bfbfbf;
   border: 2px solid black;
   height: 150px;
